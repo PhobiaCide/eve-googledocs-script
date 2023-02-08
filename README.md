@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
-### I. [Getting Started](https://github.com/PhobiaCide/eve-googledocs-script/edit/master/README.md#i-getting-started-1)
+### I. [Getting Started](#i-getting-started-1)
 1. Google Sheets Setup
-### II. [Authentication](https://github.com/PhobiaCide/eve-googledocs-script/edit/master/README.md#ii-authentication-1)
+### II. [Authentication](#ii-authentication-1)
 1. Files That Require Authentication
 1. GESI
-### III. [Files](https://github.com/PhobiaCide/eve-googledocs-script/edit/master/README.md#iii-files-1)
+### III. [Files](#iii-files-1)
 1. ESIWalletPull.gs
 1. EveCentralPrices.gs
 1. FuzzworkMarket.gs
@@ -30,7 +30,7 @@
 1. industryFigures.gs
 1. kills.gs
 1. sheetLoader.gs
-### IV. [Acknowledgements](https://github.com/PhobiaCide/eve-googledocs-script/edit/master/README.md#iv-acknowledgements-1)
+### IV. [Acknowledgements](#iv-acknowledgements-1)
 
 ---
 
