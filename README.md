@@ -8,38 +8,98 @@
 
 ## Table of Contents
 
-### I. [Getting Started](#i-getting-started-1)
-1. Google Sheets Setup
-### II. [Authentication](#ii-authentication-1)
-1. Files That Require Authentication
-1. GESI
-### III. [Files](#iii-files-1)
-1. ESIWalletPull.gs
-1. EveCentralPrices.gs
-1. FuzzworkMarket.gs
-1. FuzzworkMarketPrices-Menu.gs
-1. HistoryGrabber.gs
-1. IndustryJobs.gs
-1. LoadIndexes.gs
-1. MarketOrders.gs
-1. OutpostLoader.gs
-1. assetloader.gs
-1. blueprints.gs
-1. citadelmarket.gs
-1. esi-nameloader.gs
-1. industryFigures.gs
-1. kills.gs
-1. sheetLoader.gs
-### IV. [Acknowledgements](#iv-acknowledgements-1)
+### I. [Status](#i-status-1)
+### II. [Getting Started](#ii-getting-started-1)
+1. [Google Sheets Setup](#google-sheets-setup)
+### III. [Authentication](#iii-authentication-1)
+1. [Files That Require Authentication](#files-that-require-authentication)
+1. [GESI](#gesi)
+### IV. [Files](#iv-files-1)
+1. [ESIWalletPull.gs](#esiwalletpullgs)
+1. [EveCentralPrices.gs](#evecentralpricesgs)
+1. [FuzzworkMarket.gs](#fuzzworkmarketgs)
+1. [FuzzworkMarketPrices-Menu.gs](#fuzzworkmarketprices-menugs)
+1. [HistoryGrabber.gs](#historygrabbergs)
+1. [IndustryJobs.gs](#industryjobsgs)
+1. [LoadIndexes.gs](#loadindexesgs)
+1. [MarketOrders.gs](#marketordersgs)
+1. [OutpostLoader.gs](#outpostloadergs)
+1. [assetloader.gs](#assetloadergs)
+1. [blueprints.gs](#blueprintsgs)
+1. [citadelmarket.gs](#citadelmarketgs)
+1. [esi-nameloader.gs](#esi-nameloadergs)
+1. [industryFigures.gs](#industryfiguresgs)
+1. [kills.gs](#killsgs)
+1. [sheetLoader.gs](#sheetloadergs)
+### V. [Acknowledgements](#v-acknowledgements-1)
 
 ---
 
-### I. Getting Started
+### I. Status
 
-### II. Authentication
+|File Name|Status|Info|Requires Login|
+|---------|------|----|--------------|
+|ESIWalletPull.gs|?|?|[x]|
+|EveCentralPrices.gs|?|?|[]|
+|FuzzworkMarket.gs|?|?|[]|
+|FuzzworkMarketPrices-Menu.gs|?|?|[]|
+|HistoryGrabber.gs|?|?|[]|
+|IndustryJobs.gs|?|?|[x]|
+|LoadIndexes.gs|?|?|[]|
+|MarketOrders.gs|?|?|[]|
+|OutpostLoader.gs|?|?|[?]|
+|assetLoader.gs|?|?|[x]|
+|blueprints.gs|?|?|[x]|
+|citadelmarket.gs|?|?|[]|
+|esi-nameloader.gs|?|?|[?]|
+|industryFigures.gs|?|?|[?]|
+|kills.gs|?|?|[?]|
+|sheetLoader.gs|?|?|[?]|
 
-### III. Files
+### II. Getting Started
 
-### IV. Acknowledgements
+#### Google Sheets Setup
+
+### III. Authentication
+
+#### Files That Require Authentication
+
+#### GESI
+
+### IV. Files
+
+#### ESIWalletPull.gs
+
+#### EveCentralPrices.gs
+
+#### FuzzworkMarket.gs
+
+#### FuzzworkMarketPrices-Menu.gs
+
+#### HistoryGrabber.gs
+
+#### IndustryJobs.gs
+
+#### LoadIndexes.gs
+
+#### MarketOrders.gs
+
+#### OutpostLoader.gs
+
+#### assetloader.gs
+
+#### blueprints.gs
+
+#### citadelmarket.gs
+
+#### esi-nameloader.gs
+
+#### industryFigures.gs
+
+#### kills.gs
+
+#### sheetLoader.gs
+
+### V. Acknowledgements
 
 ---
